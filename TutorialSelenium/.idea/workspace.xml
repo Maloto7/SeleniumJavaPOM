@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a059df88-960b-4337-ba16-19bcbff80aa3" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="a059df88-960b-4337-ba16-19bcbff80aa3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/TutorialSelenium.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/qa/pom/SingIn_Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qa/pom/SingIn_Page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/qa/pom/SingIn_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/qa/pom/SingIn_Test.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,23 +21,26 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1WAgOEZsySCakt1yeQYaXyyYdGz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.SingIn_Test">
     <configuration name="Register_Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="TutorialSelenium" />
       <extension name="coverage">
@@ -47,11 +56,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="SingIn_Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="TutorialSelenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qa.pom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.qa.pom" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.pom.SingIn_Test" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SingIn_Test" />
         <item itemvalue="JUnit.Register_Test" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -65,5 +102,55 @@
       <updated>1578597778808</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="232" y="150" key="#Project_Structure" timestamp="1578761086730">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="232" y="150" key="#Project_Structure/0.0.1280.984@0.0.1280.984" timestamp="1578761086730" />
+    <state x="420" y="246" key="FileChooserDialogImpl" timestamp="1578761724975">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="420" y="246" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1578761724975" />
+    <state width="1220" height="322" key="GridCell.Tab.0.bottom" timestamp="1578762172314">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1220" height="322" key="GridCell.Tab.0.bottom/0.0.1280.984@0.0.1280.984" timestamp="1578762172314" />
+    <state width="1220" height="322" key="GridCell.Tab.0.center" timestamp="1578762172314">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1220" height="322" key="GridCell.Tab.0.center/0.0.1280.984@0.0.1280.984" timestamp="1578762172314" />
+    <state width="1220" height="322" key="GridCell.Tab.0.left" timestamp="1578762172314">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1220" height="322" key="GridCell.Tab.0.left/0.0.1280.984@0.0.1280.984" timestamp="1578762172314" />
+    <state width="1220" height="322" key="GridCell.Tab.0.right" timestamp="1578762172314">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1220" height="322" key="GridCell.Tab.0.right/0.0.1280.984@0.0.1280.984" timestamp="1578762172314" />
+    <state width="1220" height="322" key="GridCell.Tab.1.bottom" timestamp="1578762172315">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1220" height="322" key="GridCell.Tab.1.bottom/0.0.1280.984@0.0.1280.984" timestamp="1578762172315" />
+    <state width="1220" height="322" key="GridCell.Tab.1.center" timestamp="1578762172315">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1220" height="322" key="GridCell.Tab.1.center/0.0.1280.984@0.0.1280.984" timestamp="1578762172315" />
+    <state width="1220" height="322" key="GridCell.Tab.1.left" timestamp="1578762172315">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1220" height="322" key="GridCell.Tab.1.left/0.0.1280.984@0.0.1280.984" timestamp="1578762172315" />
+    <state width="1220" height="322" key="GridCell.Tab.1.right" timestamp="1578762172315">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state width="1220" height="322" key="GridCell.Tab.1.right/0.0.1280.984@0.0.1280.984" timestamp="1578762172315" />
+    <state x="120" y="66" key="SettingsEditor" timestamp="1578761825152">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="120" y="66" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1578761825152" />
+    <state x="336" y="315" key="com.intellij.ide.util.TipDialog" timestamp="1578761612749">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="336" y="315" key="com.intellij.ide.util.TipDialog/0.0.1280.984@0.0.1280.984" timestamp="1578761612749" />
   </component>
 </project>
